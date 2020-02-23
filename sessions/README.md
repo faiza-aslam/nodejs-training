@@ -1,0 +1,1 @@
+This folder constains all work done in nodejs training sessions
